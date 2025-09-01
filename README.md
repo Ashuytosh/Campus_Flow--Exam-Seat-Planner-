@@ -81,7 +81,7 @@ The system enhances efficiency and accuracy by assigning seats to students based
 
 ## Results
 - The system efficiently generates seating plans that **prevent cheating** while **maximizing classroom utilization**, with structured storage in MongoDB and Excel export with color-coded visualization.
-- **The output images and the entire workflow of the project can be found in the project PPT, which is uploaded as a PDF Format.**
+- **The output images and the entire workflow of the project can be found in the project PPT - 'Final_Campus-Flow_PPT.pdf' , which is uploaded as a PDF Format.**
 ---
 
 
