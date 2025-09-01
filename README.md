@@ -3,8 +3,10 @@
 - Ayush Khaire (BT22CSD028)  
 - Ashutosh Sahoo (BT22CSD062)  
 - Kishor Zatale (BT22CSD010)  
-- Vasu Parashar (BT22CSD021)  
-**Institute:** IIIT Nagpur
+- Vasu Parashar (BT22CSD021)
+
+
+**Institute:** Indian Institute of Information Technology , Nagpur
 
   
 ## Overview
