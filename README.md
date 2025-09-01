@@ -85,7 +85,7 @@ The system efficiently generates seating plans that **prevent cheating** while *
 ---
 
 ## Dataset
-- Student roll numbers and names grouped by course  
+- Student roll numbers and names grouped by course. The full dataset cannot be made public as it contains institute data. A **sample dataset** has been uploaded for demonstration purposes.
 
 ---
 
