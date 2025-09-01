@@ -80,7 +80,7 @@ The system enhances efficiency and accuracy by assigning seats to students based
 ---
 
 ## Results
-The system efficiently generates seating plans that **prevent cheating** while **maximizing classroom utilization**, with structured storage in MongoDB and Excel export with color-coded visualization.
+- The system efficiently generates seating plans that **prevent cheating** while **maximizing classroom utilization**, with structured storage in MongoDB and Excel export with color-coded visualization.
 ---
 
 
